@@ -8,8 +8,7 @@ class Solution {
             if(arr[mid]>arr[mid+1])
             {
               end=mid;
-            }
-            else
+            }else
             {
               start=mid+1;
             }

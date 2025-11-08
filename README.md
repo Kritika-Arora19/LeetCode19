@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0342-power-of-four) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
@@ -59,4 +61,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->

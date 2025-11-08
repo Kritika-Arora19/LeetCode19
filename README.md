@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0066-plus-one) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0069-sqrtx) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |

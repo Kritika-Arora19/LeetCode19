@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0231-power-of-two) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
@@ -47,8 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0067-add-binary) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

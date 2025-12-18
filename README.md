@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0342-power-of-four) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0882-peak-index-in-a-mountain-array) |
 ## String
@@ -60,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
@@ -71,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0342-power-of-four) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

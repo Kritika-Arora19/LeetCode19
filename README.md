@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Math
 |  |
@@ -86,4 +88,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0442-find-all-duplicates-in-an-array) |
 <!---LeetCode Topics End-->

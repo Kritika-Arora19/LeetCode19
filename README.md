@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0645-set-mismatch) |
+| [1512-number-of-good-pairs](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -119,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1480-running-sum-of-1d-array) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->

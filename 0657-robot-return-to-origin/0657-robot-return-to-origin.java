@@ -1,10 +1,8 @@
 class Solution {
     public boolean judgeCircle(String moves) {
-        char c;
         int x=0,y=0;
-        for(int i=0;i<moves.length();i++)
+        for (char c : moves.toCharArray())
         {
-            c=moves.charAt(i);
             if(c=='U')
             y++;
             else if(c=='D')

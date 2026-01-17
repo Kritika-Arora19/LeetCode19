@@ -6,13 +6,13 @@ class Solution {
         {
             c=moves.charAt(i);
             if(c=='U')
-            y=y+1;
+            y++;
             else if(c=='D')
-            y=y-1;
+            y--;
             else if(c=='L')
-            x=x-1;
+            x--;
             else
-            x=x+1;
+            x++;
         }
         if(x==0 && y==0)
         return true;

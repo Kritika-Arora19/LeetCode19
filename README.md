@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1768-merge-strings-alternately](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1768-merge-strings-alternately](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2000-reverse-prefix-of-word) |
 ## Bit Manipulation

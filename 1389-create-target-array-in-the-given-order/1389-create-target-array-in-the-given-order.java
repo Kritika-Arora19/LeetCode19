@@ -1,19 +1,15 @@
 class Solution {
     public int[] createTargetArray(int[] nums, int[] index) {
-        int [] target = new int[nums.length];
-for(int i = 0; i < nums.length; i++){
-                if(index[i] == i)
-                { target[index[i]] = nums[i];
-                }
-
-        else {
-            for(int j = index[i]; j < i + 1; j++) {
-                int temp = target[j];
-                target[j] = nums[i];
-                nums[i] = temp;
-            }
+        List<Integer> new_nums = new ArrayList<>();
+        for (int i = 0; i < nums.length; i++){
+            int ind = index[i];
+            int num = nums[i];
+            new_nums.add(ind, num);
         }
-}
-        return target; 
-          }
+        int[] target = new int[nums.length];
+        for (int i = 0; i < new_nums.size(); i++){
+            target[i] = new_nums.get(i);
+        }
+        return target;
+    }
 }

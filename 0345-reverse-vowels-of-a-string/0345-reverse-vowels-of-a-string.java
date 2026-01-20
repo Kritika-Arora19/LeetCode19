@@ -1,19 +1,21 @@
 class Solution {
     public String reverseVowels(String s) {
+        StringBuilder sb= new StringBuilder();
         int l=s.length(),k;
         char c,c1,temp;
-        String s1="",ss="";
+        String ss="";
         for(int i=0;i<l;i++)
         {
             c=s.charAt(i);
-            if(c=='a' || c=='e' || c=='i' || c=='o' || c=='u' || c=='A' || c=='E' || c=='I' || c=='O' || c=='U')
-            s1=s1+c;
+            if ("aeiouAEIOU".indexOf(c) != -1) 
+            sb.append(c);
         }
+        String s1=sb.toString();
         k=s1.length()-1;
          for(int j=0;j<l;j++)
         {
             c1=s.charAt(j);
-            if(c1=='a' || c1=='e' || c1=='i' ||c1=='o' || c1=='u' || c1=='A' || c1=='E' || c1=='I' || c1=='O' || c1=='U')
+             if ("aeiouAEIOU".indexOf(c1) != -1)
             {
                 temp=c1;
                 c1=s1.charAt(k);

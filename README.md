@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0345-reverse-vowels-of-a-string) |
+| [0415-add-strings](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0709-to-lower-case) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0657-robot-return-to-origin) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1920-build-array-from-permutation) |

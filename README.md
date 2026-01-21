@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1528-shuffle-string) |
+| [1572-matrix-diagonal-sum](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1920-build-array-from-permutation) |
@@ -176,4 +177,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->

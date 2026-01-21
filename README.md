@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0867-transpose-matrix](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0867-transpose-matrix) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1389-create-target-array-in-the-given-order) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0657-robot-return-to-origin) |
+| [0867-transpose-matrix](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1929-concatenation-of-array) |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2000-reverse-prefix-of-word) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->

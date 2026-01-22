@@ -1,7 +1,7 @@
 class Solution {
     public int maximumPopulation(int[][] logs) {
         int n = logs.length;
-        int ans = Integer.MAX_VALUE;
+        int ans = 0;
         int max = 0; 
         for (int i = 0; i < n; i++) {
             int year = logs[i][0];

@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0041-first-missing-positive) |
+| [0054-spiral-matrix](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0268-missing-number) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0657-robot-return-to-origin) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1380-lucky-numbers-in-a-matrix) |

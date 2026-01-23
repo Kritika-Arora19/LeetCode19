@@ -11,6 +11,7 @@ class Solution {
         if (n % 2 != 0) {
             arr[index] = 0;
         }
+        
         return arr;
     }
 }

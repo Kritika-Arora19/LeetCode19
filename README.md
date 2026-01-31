@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0238-product-of-array-except-self) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0345-reverse-vowels-of-a-string) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0645-set-mismatch) |

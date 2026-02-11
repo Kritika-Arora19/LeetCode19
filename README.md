@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0238-product-of-array-except-self) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0645-set-mismatch) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1854-maximum-population-year](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1854-maximum-population-year) |
@@ -240,4 +244,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

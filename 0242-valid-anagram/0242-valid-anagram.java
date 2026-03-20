@@ -5,17 +5,13 @@ class Solution {
 
         int []a = new int[26];
         int []b=new int[26];
-        for(int i=0;i<s.length();i++)
+        for(char ch:s.toCharArray())
         {
-            char c=s.charAt(i);
-            int c1=(int)c-97;
-            a[c1]++;
+            a[ch-'a']++;
         }
-        for(int i=0;i<t.length();i++)
+        for(char ch:t.toCharArray())
         {
-            char c=t.charAt(i);
-            int c2=(int)c-97;
-            b[c2]++;
+            b[ch-'a']++;
         }
         for(int j=0;j<26;j++)
         {

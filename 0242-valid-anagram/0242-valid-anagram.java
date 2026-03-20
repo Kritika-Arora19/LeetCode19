@@ -5,11 +5,6 @@ class Solution {
 
         int []a = new int[26];
         int []b=new int[26];
-        for(int h=0;h<26;h++)
-        {
-            a[h]=0;
-            b[h]=0;
-        }
         for(int i=0;i<s.length();i++)
         {
             char c=s.charAt(i);

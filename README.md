@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0415-add-strings) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0645-set-mismatch) |

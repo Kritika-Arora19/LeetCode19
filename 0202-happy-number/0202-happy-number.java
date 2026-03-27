@@ -1,7 +1,6 @@
 class Solution {
     public boolean isHappy(int n) {
         int sum=0,num=0;
-        HashMap<Integer,Integer> map=new HashMap<>();
         while(sum!=1)
         {
             sum=0;
@@ -12,7 +11,6 @@ class Solution {
                 sum=sum+(r*r);
                 n=n/10;
             }
-            map.put(num,sum);
             n=sum;
             if(sum==1)
             return true;

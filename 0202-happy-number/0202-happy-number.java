@@ -1,10 +1,9 @@
 class Solution {
     public boolean isHappy(int n) {
-        int sum=0,num=0;
-        while(sum!=1)
+        int sum;
+        while(n!=1 && n!=4)
         {
             sum=0;
-            num=n;
             while(n!=0)
             {
                 int r=n%10;
@@ -12,11 +11,7 @@ class Solution {
                 n=n/10;
             }
             n=sum;
-            if(sum==1)
-            return true;
-            if(sum==4)
-            return false;
         }
-        return false;
+        return n==1;
     }
 }

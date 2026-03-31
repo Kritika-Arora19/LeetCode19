@@ -7,8 +7,7 @@ class Solution {
         for(int i=1;i<=nums.length-k;i++)
         {
             c=c+nums[i+k-1]-nums[i-1];
-            if(c/k>max)
-            max=c/k;
+            max=Math.max(c/k,max);
         }
         return max;
     }

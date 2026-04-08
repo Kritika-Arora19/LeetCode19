@@ -5,7 +5,7 @@ class Solution {
         int start = 0;
         int end = rows*cols -1;
         while(start<=end){
-            int mid = (end + start)/2;
+            int mid = start+(end - start)/2;
             int row = mid/cols;
             int col = mid%cols;
 

@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1732-find-the-highest-altitude) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1672-richest-customer-wealth) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2965-find-missing-and-repeated-values) |

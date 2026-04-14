@@ -11,16 +11,15 @@ class Solution {
             while(s<e)
             {
                 int sum=nums[i]+nums[s]+nums[e];
-                if(sum==0){
-                    res.add(Arrays.asList(nums[i],nums[s],nums[e]));
+                if(sum<0)
+                    s++;
+                else if(sum>0)
+                e--;
+                else{
+                res.add(Arrays.asList(nums[i],nums[s],nums[e]));
                     s++;
                     e--;
-                    while (s < e && nums[s] == nums[s-1]) s++; 
-                }
-                else if(sum<0)
-                s++;
-                else
-                e--;
+                    while (s < e && nums[s] == nums[s-1]) s++;} 
             }
         }
         return new ArrayList<>(res);

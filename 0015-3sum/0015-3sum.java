@@ -1,11 +1,11 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        if(nums==null || nums.length<3)
-        return new ArrayList<>();
         Arrays.sort(nums);
-        Set<List<Integer>> res=new HashSet<>();
-        for(int i=0;i<nums.length-2;i++)
+        List<List<Integer>> res=new ArrayList<>();
+        for(int i=0;i<nums.length;i++)
         {
+            if(i>0 && nums[i]==nums[i-1])
+            continue;
             int s=i+1;
             int e=nums.length-1;
             while(s<e)
@@ -15,6 +15,7 @@ class Solution {
                     res.add(Arrays.asList(nums[i],nums[s],nums[e]));
                     s++;
                     e--;
+                    while (s < e && nums[s] == nums[s-1]) s++; 
                 }
                 else if(sum<0)
                 s++;

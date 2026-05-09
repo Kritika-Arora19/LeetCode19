@@ -12,12 +12,14 @@ class Solution {
         }
         for(int i=0;i<n;i++)
         {
+            int j=0;
             int k=n-1;
-            for(int j=0;j<n/2;j++)
+            while(j<k)
             {
                 int tempo=matrix[i][j];
                 matrix[i][j]=matrix[i][k];
                 matrix[i][k]=tempo;
+                j++;
                 k--;
             }
         }

@@ -5,11 +5,10 @@ class Solution {
         {
             if(nums[i]==1)
             m++;
-            else
-            m=0;
-            if(m>max)
-            max=m;
+            else{
+            max=Math.max(max,m);
+            m=0;}
         }
-        return max;
+        return Math.max(max,m);
     }
 }

@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3643-flip-square-submatrix-vertically) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3838-weighted-word-mapping](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2000-reverse-prefix-of-word) |
 | [2833-furthest-point-from-origin](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2833-furthest-point-from-origin) |
+| [3838-weighted-word-mapping](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2553-separate-the-digits-in-an-array) |
+| [3838-weighted-word-mapping](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3838-weighted-word-mapping) |
 ## Recursion
 |  |
 | ------- |

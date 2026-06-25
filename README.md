@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0771-jewels-and-stones) |
+| [1189-maximum-number-of-balloons](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1108-defanging-an-ip-address) |
+| [1189-maximum-number-of-balloons](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1189-maximum-number-of-balloons) |
 | [1528-shuffle-string](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1854-maximum-population-year](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1854-maximum-population-year) |

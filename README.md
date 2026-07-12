@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1991-find-the-middle-index-in-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2574-left-and-right-sum-differences) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2965-find-missing-and-repeated-values) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
 |  |
 | ------- |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
 | ------- |

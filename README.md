@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0771-jewels-and-stones) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0415-add-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0657-robot-return-to-origin) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1331-rank-transform-of-an-array) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -415,9 +419,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3345-smallest-divisible-digit-product-i) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->

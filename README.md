@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2000-reverse-prefix-of-word) |
+| [2278-percentage-of-letter-in-string](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2278-percentage-of-letter-in-string) |
 | [2833-furthest-point-from-origin](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2833-furthest-point-from-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3838-weighted-word-mapping](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3838-weighted-word-mapping) |

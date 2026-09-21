@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-percentage-of-letter-in-string](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2278-percentage-of-letter-in-string) |
 | [2833-furthest-point-from-origin](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2833-furthest-point-from-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3838-weighted-word-mapping) |
 ## Recursion
 |  |

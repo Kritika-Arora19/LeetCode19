@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1189-maximum-number-of-balloons) |
 | [1528-shuffle-string](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1528-shuffle-string) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0234-palindrome-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2000-reverse-prefix-of-word](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2000-reverse-prefix-of-word) |
 ## Matrix
 |  |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0011-container-with-most-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -491,4 +494,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->

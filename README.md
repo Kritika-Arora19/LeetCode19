@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2965-find-missing-and-repeated-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3477-fruits-into-baskets-ii](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3477-fruits-into-baskets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3643-flip-square-submatrix-vertically) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3477-fruits-into-baskets-ii](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3477-fruits-into-baskets-ii) |
 ## String
 |  |
 | ------- |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3477-fruits-into-baskets-ii](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3838-weighted-word-mapping) |
 ## Recursion
@@ -544,4 +547,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->

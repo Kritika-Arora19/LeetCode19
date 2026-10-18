@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0867-transpose-matrix) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0904-fruit-into-baskets](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1004-max-consecutive-ones-iii) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1331-rank-transform-of-an-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0771-jewels-and-stones) |
+| [0904-fruit-into-baskets](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Queue

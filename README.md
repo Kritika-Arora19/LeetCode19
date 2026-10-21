@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0867-transpose-matrix) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1004-max-consecutive-ones-iii) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1331-rank-transform-of-an-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1480-running-sum-of-1d-array) |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1423-maximum-points-you-can-obtain-from-cards) |

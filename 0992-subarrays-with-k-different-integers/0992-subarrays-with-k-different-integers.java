@@ -1,26 +1,22 @@
 class Solution {
     public int subarraysWithKDistinct(int[] nums, int k) {
-        int subK = helper(nums,k);
-        int sub = helper(nums,k-1);
-        return subK-sub;
+        return helper(nums,k)-helper(nums,k-1);
     }
-    private int helper(int nums[], int k){
-        HashMap<Integer,Integer> map = new HashMap<>();
-        int left=0;
-        int right=0;
-        int count=0;
-        while(right<nums.length){
-            map.put(nums[right], map.getOrDefault(nums[right],0)+1);
-            while(map.size()>k){
-                map.put(nums[left],map.get(nums[left])-1);
-                if(map.get(nums[left])==0){
-                    map.remove(nums[left]);
-                }
-                left++;
+    private int helper(int[] nums,int k){
+        if(k<0) return 0;
+        int n=nums.length;
+        int[] freq=new int[n+1];
+        int distinct=0;
+        int ans=0;
+        for(int i=0,j=0;i<n;i++){
+            if(freq[nums[i]]++==0) distinct++;
+            while(distinct>k){
+                if(--freq[nums[j]]==0) distinct--;
+                j++;
             }
-            count = count+ right-left+1;
-            right++;
+            ans+=(i-j+1);
         }
-        return count;
+
+        return ans;
     }
 }

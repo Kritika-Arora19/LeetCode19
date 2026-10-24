@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2396-strictly-palindromic-number) |
+| [2409-count-days-spent-together](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2409-count-days-spent-together) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2000-reverse-prefix-of-word) |
 | [2278-percentage-of-letter-in-string](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2278-percentage-of-letter-in-string) |
+| [2409-count-days-spent-together](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2409-count-days-spent-together) |
 | [2833-furthest-point-from-origin](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2833-furthest-point-from-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3498-reverse-degree-of-a-string) |

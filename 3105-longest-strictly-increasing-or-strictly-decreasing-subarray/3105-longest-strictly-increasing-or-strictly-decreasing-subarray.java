@@ -9,12 +9,10 @@ class Solution {
             ld++;
             li=1;}
             else{
-                s=Math.max(s,Math.max(li,ld));
                 li=1;
                 ld=1;
             }
-            int max=Math.max(li,ld);
-            s=Math.max(s,max);
+            s=Math.max(s,Math.max(li,ld));
         }
         return s;
     }

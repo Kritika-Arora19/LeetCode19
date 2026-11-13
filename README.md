@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Simulation
 |  |
 | ------- |

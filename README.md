@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3477-fruits-into-baskets-ii](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3477-fruits-into-baskets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3643-flip-square-submatrix-vertically) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3360-stone-removal-game) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3536-maximum-product-of-two-digits](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Queue
 |  |
 | ------- |
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Kritika-Arora19/LeetCode19/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kritika-Arora19/LeetCode19/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Heap (Priority Queue)
 |  |
@@ -559,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Kritika-Arora19/LeetCode19/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Kritika-Arora19/LeetCode19/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Bucket Sort
 |  |
 | ------- |
